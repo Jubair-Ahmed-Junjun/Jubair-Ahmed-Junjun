@@ -42,9 +42,10 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 </p>
 
 
-[![Jubair-Ahmed-Junjun's github stats](https://github-readme-stats.vercel.app/api?username=Jubair-Ahmed-Junjun&theme=dark&show_icons=true)](https://github.com/Jubair-Ahmed-Junjun)
+
 
 <a href="">
+  [![Jubair-Ahmed-Junjun's github stats](https://github-readme-stats.vercel.app/api?username=Jubair-Ahmed-Junjun&theme=dark&show_icons=true)](https://github.com/Jubair-Ahmed-Junjun)
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubair-Ahmed-Junjun&layout=compact&theme=radical" alt="Jubair-Ahmed-Junjun"/>
 </a>
 
