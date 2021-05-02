@@ -41,9 +41,9 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jubair-Ahmed-Junjun&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
 
+[![Jubair-Ahmed-Junjun's github stats](https://github-readme-stats.vercel.app/api?username=Jubair-Ahmed-Junjun&theme=dark&show_icons=true)](https://github.com/Jubair-Ahmed-Junjun)
 
-
- [![Jubair-Ahmed-Junjun's github stats](https://github-readme-stats.vercel.app/api?username=Jubair-Ahmed-Junjun&theme=dark&show_icons=true)](https://github.com/Jubair-Ahmed-Junjun)<a href="">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubair-Ahmed-Junjun&layout=compact&theme=radical" alt="Jubair-Ahmed-Junjun"/>
 </a>
 
