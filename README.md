@@ -35,12 +35,6 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
-[![Jubair-Ahmed-Junjun's github stats](https://github-readme-stats.vercel.app/api?username=Jubair-Ahmed-Junjun&theme=dark&show_icons=true)](https://github.com/Jubair-Ahmed-Junjun)
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubair-Ahmed-Junjun&layout=compact&theme=radical" alt="Jubair-Ahmed-Junjun"/>
-</a>
-
 <h2>📊 Stats</h2>
 
 <p align="center">
@@ -48,7 +42,11 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 </p>
 
 
-<p align="center">
-<a  href="https://github-readme-stats.vercel.app/api?username=Jubair-Ahmed-Junjun&count_private=true&show_icons=true&theme=radical"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api?username=Jubair-Ahmed-Junjun&count_private=true&show_icons=true&theme=radical" /></a>
-  
-</p>
+[![Jubair-Ahmed-Junjun's github stats](https://github-readme-stats.vercel.app/api?username=Jubair-Ahmed-Junjun&theme=dark&show_icons=true)](https://github.com/Jubair-Ahmed-Junjun)
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubair-Ahmed-Junjun&layout=compact&theme=radical" alt="Jubair-Ahmed-Junjun"/>
+</a>
+
+
+
