@@ -44,11 +44,11 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 <h2>📊 Stats</h2>
 
 <p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ryihan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jubair-Ahmed-Junjun&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
 
 
 <p align="center">
-<a  href="https://github-readme-stats.vercel.app/api?username=Jubair-Ahmed-Junjun&count_private=true&show_icons=true&theme=radical"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api?username=ryihan&count_private=true&show_icons=true&theme=radical" /></a>
+<a  href="https://github-readme-stats.vercel.app/api?username=Jubair-Ahmed-Junjun&count_private=true&show_icons=true&theme=radical"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api?username=Jubair-Ahmed-Junjun&count_private=true&show_icons=true&theme=radical" /></a>
   
 </p>
