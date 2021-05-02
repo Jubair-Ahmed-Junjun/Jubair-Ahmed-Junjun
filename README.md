@@ -44,7 +44,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 <h2>🔥 Streak Stats</h2>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ryihan&theme=dracula" alt="Jubair-Ahmed-Junjun" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Jubair-Ahmed-Junjun&theme=dracula" alt="Jubair-Ahmed-Junjun" />
 </p>
 
 
