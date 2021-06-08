@@ -12,7 +12,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 </a>
 ![](https://visitor-badge.glitch.me/badge?page_id=Jubair-Ahmed-Junjun.Jubair-Ahmed-Junjun)
 
- <img align="right" width="280" height="220" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+ <img align="right" width="250" height="220" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
  
  
  🏢 I'm currently working at **Programmer's Media & Best Marketing Agency Bangladesh**
