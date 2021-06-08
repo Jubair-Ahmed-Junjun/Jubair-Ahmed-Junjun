@@ -3,7 +3,6 @@
 
 I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. How to reach me -
 
-
 [![Facebook Badge](https://img.shields.io/badge/-jubair.junjun-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/jubair.junjun/)](https://www.facebook.com/jubair.junjun/)
 [![Gmail Badge](https://img.shields.io/badge/-jubair.ahmed.junjun@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:jubair.ahmed.junjun@gmail.com)](mailto:jubair.ahmed.junjun@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-JubairAhmedJunjun/-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCQZ7-RwAMzh902nmjGRlOtw)](https://www.youtube.com/channel/UCQZ7-RwAMzh902nmjGRlOtw)
@@ -15,8 +14,8 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 
  <img align="right" width="340" height="270" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
  
+ 
  🏢 I'm currently working at **Programmer's Media & Best Marketing Agency Bangladesh**
-
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
