@@ -1,7 +1,7 @@
 [![MasterHead](https://media-exp3.licdn.com/dms/image/C5616AQHIU2Ud3lvLjA/profile-displaybackgroundimage-shrink_200_800/0/1611504817512?e=1628726400&v=beta&t=WrL09iVkCdUOzEY5GCdL1Snj2pcDwfpWd__CG6yAzGA)](https://Jubair-Ahmed-Junjun.github.io)
 <h1 align="center">Hi 👋, I'm Jubair Ahmed Junjun</h1>
 
-I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here -
+I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. How to reach me -
 
 
 [![Facebook Badge](https://img.shields.io/badge/-jubair.junjun-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/jubair.junjun/)](https://www.facebook.com/jubair.junjun/)
@@ -46,17 +46,19 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 <p align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jubair-Ahmed-Junjun&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
+<details>
+  <summary>:zap: Most Used Languages</summary>
+<img align="left" alt="Jubair's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubair-Ahmed-Junjun" />
 
-<p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubair-Ahmed-Junjun" alt="nilax97" />
-</p>
+</details>
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-[![Jubair-Ahmed-Junjun's github stats](https://github-readme-stats.vercel.app/api?username=Jubair-Ahmed-Junjun&theme=dark&show_icons=true)](https://github.com/Jubair-Ahmed-Junjun)
+  <img align="left" alt="Jubair's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jubair-Ahmed-Junjun&show_icons=true&hide_border=true" />
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubair-Ahmed-Junjun&layout=compact&theme=radical" alt="Jubair-Ahmed-Junjun"/>
-</a>
+</details>
+
 
 <h2>🔥 Streak Stats</h2>
 
