@@ -13,7 +13,10 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 </a>
 ![](https://visitor-badge.glitch.me/badge?page_id=Jubair-Ahmed-Junjun.Jubair-Ahmed-Junjun)
 
-- 🏢 I'm currently working at **Programmer's Media & Best Marketing Agency Bangladesh**
+ <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+ 
+ 🏢 I'm currently working at **Programmer's Media & Best Marketing Agency Bangladesh**
+
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
@@ -21,6 +24,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+
 - 💻 I work using:
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![MachineLearning](https://img.shields.io/badge/-MachineLearning-336791?style=plastic&logo=machinelearning)
@@ -32,6 +36,8 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 - 🌱 Learning all about:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
+
+
 
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
