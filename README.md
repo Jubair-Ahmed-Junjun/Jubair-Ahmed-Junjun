@@ -65,5 +65,15 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Jubair-Ahmed-Junjun&theme=dracula" alt="Jubair-Ahmed-Junjun" />
 </p>
 
+#### :bar_chart: Weekly development breakdown
 
+<!--START_SECTION:waka-->
+```text
+PHP          23 hrs 53 mins  ████████████████▓░░░░░░░░   66.70 % 
+JavaScript   2 hrs 59 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+C++          2 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Other        1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Bash         1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+```
+<!--END_SECTION:waka-->
 
