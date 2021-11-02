@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQHIU2Ud3lvLjA/profile-displaybackgroundimage-shrink_200_800/0/1611504817512?e=1634774400&v=beta&t=qNxcjMVugebws8t-5FtiGwamD95CEUg2hHUD8z8-81Q)](https://Jubair-Ahmed-Junjun.github.io)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQHIU2Ud3lvLjA/profile-displaybackgroundimage-shrink_200_800/0/1611504817512?e=1641427200&v=beta&t=WN6eScAG0ikis6tD9kcV8YigyGjBoGAALO40PlXy4yE)](https://Jubair-Ahmed-Junjun.github.io)
 <h1 align="center">Hi 👋, I'm Jubair Ahmed Junjun</h1>
 
 I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. How to reach me -
@@ -49,21 +49,23 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
   <summary>:zap: Most Used Languages</summary>
 <img align="left" alt="Jubair's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubair-Ahmed-Junjun" />
 
-</details>
+</details> 
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Jubair's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jubair-Ahmed-Junjun&show_icons=true&hide_border=true" />
 
 </details>
-
+ -->
 
 <h2>🔥 Streak Stats</h2>
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Jubair-Ahmed-Junjun&theme=dracula" alt="Jubair-Ahmed-Junjun" />
 </p>
+<br />
+<br />
 
 #### :bar_chart: Weekly development breakdown
 
@@ -71,9 +73,24 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 ```text
 PHP          23 hrs 53 mins  ████████████████▓░░░░░░░░   66.70 % 
 JavaScript   2 hrs 59 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-C++          2 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Other        1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Laravel      2 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Python       1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+ML           1 hr 00 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 Bash         1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 ```
-<!--END_SECTION:waka-->
 
+
+
+| <a href="https://github.com/Jubair-Ahmed-Junjun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jubair-Ahmed-Junjun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jubair's github stats" /></a> | <a href="https://github.com/Jubair-Ahmed-Junjun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubair-Ahmed-Junjun&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/Jubair-Ahmed-Junjun/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubair-Ahmed-Junjun&repo=github-readme-stats&theme=buefy" />
+</a>
+
+
+<br />
+<br />
