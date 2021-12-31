@@ -94,3 +94,6 @@ Bash         1 hr 26 mins    █░░░░░░░░░░░░░░░░
 
 <br />
 <br />
+
+
+[Jubair_Ahmed_Junjun_CV.pdf](https://github.com/Jubair-Ahmed-Junjun/Jubair-Ahmed-Junjun/files/7795833/Jubair_Ahmed_Junjun_CV.pdf)
