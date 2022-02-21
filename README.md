@@ -70,7 +70,7 @@ If you like what I do, take a look at my <a href="https://drive.google.com/file/
 <br />
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="214" />
   <br>
 #### :bar_chart: Weekly development breakdown
 
