@@ -40,6 +40,8 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
+If you like what I do, take a look at my <a href="https://drive.google.com/file/d/1oupm4DWOLaosZyL4tQbMdZtWiZ_tM58t/view?usp=sharing" target="_blank">Resume</a>
+
 <h2>📊 Stats</h2>
 
 <p align="center">
@@ -67,16 +69,19 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 <br />
 <br />
 
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
+  <br>
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
 ```text
-PHP          23 hrs 53 mins  ████████████████▓░░░░░░░░   66.70 % 
-JavaScript   2 hrs 59 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Laravel      2 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Python       1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-ML           1 hr 00 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Bash         1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+PHP         23hrs 53 mins  ████████████████▓░░░░░░░░   66.70 % 
+JavaScript  2hrs 59 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Laravel     2hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Python      1hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+ML          1hr 00 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Bash        1hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 ```
 
 
@@ -94,6 +99,3 @@ Bash         1 hr 26 mins    █░░░░░░░░░░░░░░░░
 
 <br />
 <br />
-
-
-[Jubair_Ahmed_Junjun_CV.pdf](https://github.com/Jubair-Ahmed-Junjun/Jubair-Ahmed-Junjun/files/7795833/Jubair_Ahmed_Junjun_CV.pdf)
