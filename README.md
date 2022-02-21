@@ -70,8 +70,9 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 <br />
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="214" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="250" />
   <br>
+  
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
