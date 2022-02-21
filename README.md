@@ -40,7 +40,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
-If you like what I do, take a look at my <a href="https://drive.google.com/file/d/1oupm4DWOLaosZyL4tQbMdZtWiZ_tM58t/view?usp=sharing" target="_blank">Resume</a>
+<h3>If you like what I do, take a look at my <a href="https://drive.google.com/file/d/1oupm4DWOLaosZyL4tQbMdZtWiZ_tM58t/view?usp=sharing" target="_blank">Resume</a></h3>
 
 <h2>📊 Stats</h2>
 
@@ -61,7 +61,7 @@ If you like what I do, take a look at my <a href="https://drive.google.com/file/
 </details>
  -->
 
-<h2>🔥 Streak Stats</h2>
+<h3>🔥 Streak Stats</h3>
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Jubair-Ahmed-Junjun&theme=dracula" alt="Jubair-Ahmed-Junjun" />
