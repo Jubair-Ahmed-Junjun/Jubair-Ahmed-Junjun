@@ -39,6 +39,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 
 
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
+- 📫 visit my portfolio and Blog site: <a href="https://jubairahmedjunjun.blogspot.com/" target="_blank">Blogs</a>
 
 <h3>If you like what I do, take a look at my <a href="https://drive.google.com/file/d/1oupm4DWOLaosZyL4tQbMdZtWiZ_tM58t/view?usp=sharing" target="_blank">Resume</a></h3>
 
