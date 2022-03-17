@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQHIU2Ud3lvLjA/profile-displaybackgroundimage-shrink_200_800/0/1611504817512?e=1646870400&v=beta&t=UsStMUPBJ7koCHopJ__8cb7xYoqlF_lqvxm8Z6rXDnQ)](https://Jubair-Ahmed-Junjun.github.io)
+<!-- [![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQHIU2Ud3lvLjA/profile-displaybackgroundimage-shrink_200_800/0/1611504817512?e=1646870400&v=beta&t=UsStMUPBJ7koCHopJ__8cb7xYoqlF_lqvxm8Z6rXDnQ)](https://Jubair-Ahmed-Junjun.github.io) -->
 <h1 align="center">Hi,&nbsp;&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm Jubair Ahmed Junjun</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;)](https://git.io/typing-svg)
@@ -90,13 +90,14 @@ Bash        1hr 26 mins    █░░░░░░░░░░░░░░░░�
 
 
 
-| <a href="https://github.com/Jubair-Ahmed-Junjun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jubair-Ahmed-Junjun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jubair's github stats" /></a> | <a href="https://github.com/Jubair-Ahmed-Junjun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubair-Ahmed-Junjun&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!-- | <a href="https://github.com/Jubair-Ahmed-Junjun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jubair-Ahmed-Junjun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jubair-Ahmed-Junjun's github stats" /></a> | <a href="https://github.com/Jubair-Ahmed-Junjun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubair-Ahmed-Junjun&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | -->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jubair-Ahmed-Junjun&count_private=true) 
 
 #### Top Repositories
-
-
-<a href="https://github.com/Jubair-Ahmed-Junjun/github-readme-stats">
+<a align="center" href="https://github.com/Jubair-Ahmed-Junjun/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jubair-Ahmed-Junjun&repo=github-readme-stats&theme=buefy" />
 </a>
 
