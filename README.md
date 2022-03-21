@@ -45,6 +45,8 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 
 <h3>If you like what I do, take a look at my <a href="https://drive.google.com/file/d/1oupm4DWOLaosZyL4tQbMdZtWiZ_tM58t/view?usp=sharing" target="_blank">Resume</a></h3>
 
+<h3>My Research Paper Publication also available on Springer <a href="https://link.springer.com/chapter/10.1007/978-981-16-7597-3_12" target="_blank">Click</a></h3>
+
 <h2>📊 Stats</h2>
 
 <p align="center">
