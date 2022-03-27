@@ -54,8 +54,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 </p>
 <details>
   <summary>:zap: Most Used Languages</summary>
-<img align="left" alt="Jubair's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubair-Ahmed-Junjun" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubair-Ahmed-Junjun&langs_count=10&layout=compact&theme=vue-dark" alt="" title="Most used languages" /> 
 </details> 
 
 <!-- <details>
@@ -106,3 +105,6 @@ Bash        1hr 26 mins    █░░░░░░░░░░░░░░░░�
 
 <br />
 <br />
+
+
+
