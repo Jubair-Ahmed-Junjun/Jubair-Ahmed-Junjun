@@ -42,8 +42,9 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 - 📫 visit my portfolio and Blog site: <a href="https://jubairahmedjunjun.blogspot.com/" target="_blank">Blogs</a>
+- 👨 My portfolio Website: <a href="https://jubairahmedjunjun.netlify.app/" target="_blank">Portfolio</a>
 
-<h3>If you like what I do, take a look at my <a href="https://drive.google.com/file/d/1oupm4DWOLaosZyL4tQbMdZtWiZ_tM58t/view?usp=sharing" target="_blank">Resume</a></h3>
+<h3>If you like what I do, take a look at my <a href="https://drive.google.com/file/d/1JW-foagXtq-tJD5DSNtWm3agUZR2ZR9k/view?usp=sharing" target="_blank">Resume</a></h3>
 
 <h3>My Research Paper Publication also available on Springer <a href="https://link.springer.com/chapter/10.1007/978-981-16-7597-3_12" target="_blank">Click</a></h3>
 
