@@ -66,7 +66,10 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 </details>
  -->
 
+
 <h3>🔥 Streak Stats</h3>
+
+  [![World Wide Github](https://git-stars.com/share/embed/Jubair-Ahmed-Junjun.svg)](https://git-stars.com/user/Jubair-Ahmed-Junjun)
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Jubair-Ahmed-Junjun&theme=dracula" alt="Jubair-Ahmed-Junjun" />
