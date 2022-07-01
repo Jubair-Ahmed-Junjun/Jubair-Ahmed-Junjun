@@ -18,23 +18,28 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
  
  
  🏢 I'm currently working at **Startwithgenesis & HELPY_MOTO**
-- 🚀 Expert:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+ 
+- 🚀 Expert(MERN):
   ![MongoDB](https://img.shields.io/badge/-MongoDB-8fcfd1?style=plastic&logo=MongoDB)
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.JS)
   ![Express](https://img.shields.io/badge/-Express-blasck?style=plastic&logo=express)
+  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.JS)
+<!--
+- 🚀 Comfortable:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-563D7C?style=plastic&logo=tailwindCSS)
+  ![DaisyUI](https://img.shields.io/badge/-DaisyUI-563D7C?style=plastic&logo=DaisyUI) 
+  -->
 - 💻 Working Knowledge:
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![Figma](https://img.shields.io/badge/-Figma-181717?style=plastic&logo=figma)
   ![Netlify](https://img.shields.io/badge/-Netlify-181717?style=plastic&logo=netlify)
   ![Heroku](https://img.shields.io/badge/-Heroku-181717?style=plastic&logo=heroku)
-- ⚙️ I also use and work: ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) ![Laravel](https://img.shields.io/badge/-laravel-3f4441?style=plastic&logo=laravel) ![MachineLearning](https://img.shields.io/badge/-MachineLearning-336791?style=plastic&logo=machinelearning)
+- ⚙️ I also worked: ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) ![Laravel](https://img.shields.io/badge/-laravel-3f4441?style=plastic&logo=laravel) ![MachineLearning](https://img.shields.io/badge/-MachineLearning-336791?style=plastic&logo=machinelearning)
  
 
 
