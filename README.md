@@ -17,27 +17,25 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
  <img align="right" width="250" height="220" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
  
  
- 🏢 I'm currently working at **Programmer's Media & Best Marketing Agency Bangladesh**
-- 🚀 I use daily:
+ 🏢 I'm currently working at **Startwithgenesis & HELPY_MOTO**
+- 🚀 Expert:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-  ![CSharp](https://img.shields.io/badge/-Csharp-8fcfd1?style=plastic&logo=Csharp)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-
-- 💻 I work using:
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-  ![MachineLearning](https://img.shields.io/badge/-MachineLearning-336791?style=plastic&logo=machinelearning)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-- ⚙️ I also use and work: ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) ![Laravel](https://img.shields.io/badge/-laravel-3f4441?style=plastic&logo=laravel) ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-8fcfd1?style=plastic&logo=MongoDB)
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.JS)
+  ![Express](https://img.shields.io/badge/-Express-blasck?style=plastic&logo=express)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-- 🌱 Learning all about:
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
 
+- 💻 Working Knowledge:
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  ![Figma](https://img.shields.io/badge/-Figma-181717?style=plastic&logo=figma)
+  ![Netlify](https://img.shields.io/badge/-Netlify-181717?style=plastic&logo=netlify)
+  ![Heroku](https://img.shields.io/badge/-Heroku-181717?style=plastic&logo=heroku)
+- ⚙️ I also use and work: ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) ![Laravel](https://img.shields.io/badge/-laravel-3f4441?style=plastic&logo=laravel) ![MachineLearning](https://img.shields.io/badge/-MachineLearning-336791?style=plastic&logo=machinelearning)
+ 
 
 
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
