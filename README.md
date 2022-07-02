@@ -41,11 +41,9 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
   ![Heroku](https://img.shields.io/badge/-Heroku-181717?style=plastic&logo=heroku)
 - ⚙️ I also worked: ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) ![Laravel](https://img.shields.io/badge/-laravel-3f4441?style=plastic&logo=laravel) ![MachineLearning](https://img.shields.io/badge/-MachineLearning-336791?style=plastic&logo=machinelearning)
  
-
-
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 - 📫 visit my portfolio and Blog site: <a href="https://jubairahmedjunjun.blogspot.com/" target="_blank">Blogs</a>
-- 👨 My portfolio Website: <a href="https://jubairahmedjunjun.netlify.app/" target="_blank">Portfolio</a>
+- <h2>Portfolio Website: <a href="https://jubairahmedjunjun.netlify.app/" target="_blank">Portfolio</a></h2>
 
 <h3>If you like what I do, take a look at my <a href="https://drive.google.com/file/d/1JW-foagXtq-tJD5DSNtWm3agUZR2ZR9k/view?usp=sharing" target="_blank">Resume</a></h3>
 
