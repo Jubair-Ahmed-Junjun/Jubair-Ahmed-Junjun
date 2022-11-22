@@ -17,7 +17,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
  <img align="right" width="250" height="220" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
  
  
- 🏢 I'm currently working at **Startwithgenesis & HELPY_MOTO**
+ 🏢 I'm currently working at **HELPY_MOTO & massgroupbd **
  
 - 🚀 Expert(MERN):
   ![MongoDB](https://img.shields.io/badge/-MongoDB-8fcfd1?style=plastic&logo=MongoDB)
