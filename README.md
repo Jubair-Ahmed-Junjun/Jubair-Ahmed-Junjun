@@ -36,7 +36,7 @@ I love to talk about trending ⚡ technology ⚡, I have a huge attraction on �
  
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 - 📫 visit my portfolio and Blog site: <a href="https://jubairahmedjunjun.blogspot.com/" target="_blank">Blogs</a>
-- <h2><a href="https://jubairahmedjunjun.netlify.app/" target="_blank">Portfolio</a></h2>
+- <a href="https://jubairahmedjunjun.netlify.app/" target="_blank">Portfolio</a>
 
 <h3>If you like what I do, take a look at my <a href="https://drive.google.com/file/d/1Jrpi2roOCiKXFHH42sglymVxugXchWxX/view?usp=sharing" target="_blank">Resume</a></h3>
 
