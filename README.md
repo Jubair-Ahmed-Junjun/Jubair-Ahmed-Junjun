@@ -5,7 +5,7 @@
 
 I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. How to reach me -
 
-[![LinedIn Badge](https://img.shields.io/badge/-jubair.junjun-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/jubair.junjun/)](https://www.facebook.com/jubair.junjun/)
+[![LinkedIn Badge](https://img.shields.io/badge/-jubair.junjun-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/jubair.junjun/)](https://www.facebook.com/jubair.junjun/)
 [![Facebook Badge](https://img.shields.io/badge/-jubair.junjun-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/jubair.junjun/)](https://www.facebook.com/jubair.junjun/)
 [![Gmail Badge](https://img.shields.io/badge/-jubair.ahmed.junjun@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:jubair.ahmed.junjun@gmail.com)](mailto:jubair.ahmed.junjun@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-JubairAhmedJunjun/-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCQZ7-RwAMzh902nmjGRlOtw)](https://www.youtube.com/channel/UCQZ7-RwAMzh902nmjGRlOtw)
