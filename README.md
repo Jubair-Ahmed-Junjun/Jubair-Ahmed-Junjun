@@ -1,9 +1,9 @@
 <!-- [![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQHIU2Ud3lvLjA/profile-displaybackgroundimage-shrink_200_800/0/1611504817512?e=1646870400&v=beta&t=UsStMUPBJ7koCHopJ__8cb7xYoqlF_lqvxm8Z6rXDnQ)](https://Jubair-Ahmed-Junjun.github.io) -->
-<h4 align="center">Hi,&nbsp;&nbsp; I'm <a href="https://jubairahmedjunjun.netlify.app/" target="_blank">Junjun👨‍⚖️</a></h4>
+<h4 align="center">Hi,&nbsp;&nbsp;I'm <a href="https://jubairahmedjunjun.netlify.app/" target="_blank">Junjun👨‍⚖️</a></h4>
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;)](https://git.io/typing-svg)-->
 
-I love to talk about trending ⚡ technology ⚡, I have a huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. How to reach me -
+How to reach me -
 
 [![LinkedIn Badge](https://img.shields.io/badge/-jubair.junjun-blue?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jubair-ahmed-junjun-4ab6a0177/)](https://www.linkedin.com/in/jubair-ahmed-junjun-4ab6a0177/)
 [![Facebook Badge](https://img.shields.io/badge/-jubair.junjun-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/jubair.junjun/)](https://www.facebook.com/jubair.junjun/)
