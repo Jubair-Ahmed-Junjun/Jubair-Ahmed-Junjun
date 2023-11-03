@@ -25,15 +25,7 @@ I love to talk about trending ⚡ technology ⚡, I have a huge attraction on �
   ![Express](https://img.shields.io/badge/-Express-blasck?style=plastic&logo=express)
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.JS)
-<!--
-- 🚀 Comfortable:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-563D7C?style=plastic&logo=tailwindCSS)
-  ![DaisyUI](https://img.shields.io/badge/-DaisyUI-563D7C?style=plastic&logo=DaisyUI) 
-  -->
+  
 - 💻 Working Knowledge:
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
@@ -44,7 +36,7 @@ I love to talk about trending ⚡ technology ⚡, I have a huge attraction on �
  
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 - 📫 visit my portfolio and Blog site: <a href="https://jubairahmedjunjun.blogspot.com/" target="_blank">Blogs</a>
-- <h2>Portfolio Website: <a href="https://jubairahmedjunjun.netlify.app/" target="_blank">Portfolio</a></h2>
+- <h2><a href="https://jubairahmedjunjun.netlify.app/" target="_blank">Portfolio</a></h2>
 
 <h3>If you like what I do, take a look at my <a href="https://drive.google.com/file/d/1Jrpi2roOCiKXFHH42sglymVxugXchWxX/view?usp=sharing" target="_blank">Resume</a></h3>
 
